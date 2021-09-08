@@ -1,1 +1,1 @@
-# HackOn Hackaathon Project -- Virtual Chruch
+# HackOn Hackathon Project -- Virtual Chruch
